@@ -6,15 +6,14 @@ A fun, interactive game built using **HTML**, **CSS**, and **JavaScript** where 
 
 ## 🚀 Live Demo
 
-[Click here to play the game](#)  
+[guess-the-number-ten-eta.vercel.app](#)  
 _(Add your GitHub Pages or Netlify link here if deployed)_
 
 ---
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)  
-_(Optional: Add a screenshot of the game UI here)_
+![Game Screenshot](image.png)
 
 ---
 
