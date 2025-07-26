@@ -26,5 +26,3 @@ A fun, interactive game built using **HTML**, **CSS**, and **JavaScript** where 
 - 🏆 Tracks and updates the high score
 
 ---
-
-## 📂 Project Structure
